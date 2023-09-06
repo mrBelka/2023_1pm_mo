@@ -7,7 +7,7 @@
 ## Задачи
 Для продвинутого потока: https://drive.google.com/drive/folders/1rmOt8O36nRaHXf-EbEHKrYNDefb3QWEv?usp=sharing  
 Для базового потока: https://drive.google.com/drive/folders/1cd3pyqhPvVJoUlC7gdKePjWeQZYlom9V?usp=sharing  
-Соглашение о стиле кода: https://docs.google.com/document/d/1-WvhJLcPuzLY0z9KG4wAVxtF3R_L7it37wu02iij2HM/edit?usp=sharing  
+Рекомендации по стилю написания кода: https://docs.google.com/document/d/1-WvhJLcPuzLY0z9KG4wAVxtF3R_L7it37wu02iij2HM/edit?usp=sharing  
 
 ## Лекции
 06.09.2023 Лекция 1 Введение  
