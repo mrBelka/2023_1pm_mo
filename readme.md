@@ -19,5 +19,6 @@ https://www.youtube.com/watch?v=i9pnZLc34Lc
 3. Очень крутой курс по С++ https://www.youtube.com/watch?v=9WO24IJQP_Q&list=PLmSYEYYGhnBu1fFtnzKx-pycYbJnb0rOl
 4. Более простой курс, чем 3 https://www.youtube.com/watch?v=qSHP98i9mDU&list=PL0lO_mIqDDFXNfqIL9PHQM7Wg_kOtDZsW
 5. C++ Programming course https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb
-6. Иные курсы на ютуб, https://www.coursera.org/courses и т.п. 
+6. Яндекс хендбук по С++ с задачами https://academy.yandex.ru/handbook/cpp  
+7. Иные курсы на ютуб, https://www.coursera.org/courses и т.п. 
 
