@@ -9,9 +9,19 @@
 Для базового потока: https://drive.google.com/drive/folders/1cd3pyqhPvVJoUlC7gdKePjWeQZYlom9V?usp=sharing  
 Рекомендации по стилю написания кода: https://docs.google.com/document/d/1-WvhJLcPuzLY0z9KG4wAVxtF3R_L7it37wu02iij2HM/edit?usp=sharing  
 
-## Лекции
+## Лекции Базовые
+06.09.2023 Лекция 1 Введение  
+https://www.youtube.com/watch?v=i9pnZLc34Lc
+
+13.09.2023 Лекция 2 Типы данных, арифм. и битовые операции  
+https://youtu.be/Q3ulfVV77kk
+
+## Лекции Продвинутые
 06.09.2023 Лекция 1 Введение  
 https://www.youtube.com/watch?v=i9pnZLc34Lc  
+
+13.09.2023 Лекция 2 Типы данных, арифм. и битовые операции  
+https://youtu.be/_4J_rlnoTXQ
 
 ## Дополнительные материалы
 1. Официальный справочник по С++ https://en.cppreference.com/w/  
