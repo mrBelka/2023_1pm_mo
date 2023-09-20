@@ -15,14 +15,20 @@
 https://www.youtube.com/watch?v=i9pnZLc34Lc
 
 13.09.2023 Лекция 2 Типы данных, арифм. и битовые операции  
-https://youtu.be/Q3ulfVV77kk
+https://youtu.be/Q3ulfVV77kk  
+
+20.09.2023 Лекция 3 Сравнения, логические операции, условия  
+https://youtu.be/dt9qlcXE_CE  
 
 ## Лекции Продвинутые
 06.09.2023 Лекция 1 Введение  
 https://www.youtube.com/watch?v=i9pnZLc34Lc  
 
 13.09.2023 Лекция 2 Типы данных, арифм. и битовые операции  
-https://youtu.be/_4J_rlnoTXQ
+https://youtu.be/_4J_rlnoTXQ  
+
+20.09.2023 Лекция 3 Сравнения, логические операции, условия, циклы  
+https://youtu.be/NDuZAroTwoM  
 
 ## Дополнительные материалы
 1. Официальный справочник по С++ https://en.cppreference.com/w/  
@@ -31,5 +37,6 @@ https://youtu.be/_4J_rlnoTXQ
 4. Более простой курс, чем 3 https://www.youtube.com/watch?v=qSHP98i9mDU&list=PL0lO_mIqDDFXNfqIL9PHQM7Wg_kOtDZsW
 5. C++ Programming course https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb
 6. Яндекс хендбук по С++ с задачами https://academy.yandex.ru/handbook/cpp  
-7. Иные курсы на ютуб, https://www.coursera.org/courses и т.п. 
+7. Иные курсы на ютуб, https://www.coursera.org/courses и т.п.  
+8. Онлайн-компилятор, который показывает код на Ассемблере https://godbolt.org/  
 
