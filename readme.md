@@ -20,6 +20,9 @@ https://youtu.be/Q3ulfVV77kk
 20.09.2023 Лекция 3 Сравнения, логические операции, условия  
 https://youtu.be/dt9qlcXE_CE  
 
+27.09.2023 Лекция 4 Циклы  
+https://youtu.be/VmXVwEsTV9g  
+
 ## Лекции Продвинутые
 06.09.2023 Лекция 1 Введение  
 https://www.youtube.com/watch?v=i9pnZLc34Lc  
@@ -29,6 +32,9 @@ https://youtu.be/_4J_rlnoTXQ
 
 20.09.2023 Лекция 3 Сравнения, логические операции, условия, циклы  
 https://youtu.be/NDuZAroTwoM  
+
+27.09.2023 Лекция 4 Массивы  
+https://youtu.be/4fiLRa5WXSU  
 
 ## Дополнительные материалы
 1. Официальный справочник по С++ https://en.cppreference.com/w/  
