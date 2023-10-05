@@ -23,6 +23,9 @@ https://youtu.be/dt9qlcXE_CE
 27.09.2023 Лекция 4 Циклы  
 https://youtu.be/VmXVwEsTV9g  
 
+04.10.2023 Лекция 5 Массивы  
+https://youtu.be/P3cRwAD6p_A  
+
 ## Лекции Продвинутые
 06.09.2023 Лекция 1 Введение  
 https://www.youtube.com/watch?v=i9pnZLc34Lc  
@@ -35,6 +38,9 @@ https://youtu.be/NDuZAroTwoM
 
 27.09.2023 Лекция 4 Массивы  
 https://youtu.be/4fiLRa5WXSU  
+
+04.10.2023 Лекция 5 Строки  
+https://youtu.be/RoVYwHRiYYI  
 
 ## Дополнительные материалы
 1. Официальный справочник по С++ https://en.cppreference.com/w/  
