@@ -26,6 +26,9 @@ https://youtu.be/VmXVwEsTV9g
 04.10.2023 Лекция 5 Массивы  
 https://youtu.be/P3cRwAD6p_A  
 
+11.10.2023 Лекция 6 Разбор задач по массивам  
+https://youtu.be/t73P2-hn1pQ  
+
 ## Лекции Продвинутые
 06.09.2023 Лекция 1 Введение  
 https://www.youtube.com/watch?v=i9pnZLc34Lc  
@@ -41,6 +44,9 @@ https://youtu.be/4fiLRa5WXSU
 
 04.10.2023 Лекция 5 Строки  
 https://youtu.be/RoVYwHRiYYI  
+
+11.10.2023 Лекция 6 Функции  
+https://youtu.be/yfSJg9zP7HM  
 
 ## Дополнительные материалы
 1. Официальный справочник по С++ https://en.cppreference.com/w/  
