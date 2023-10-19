@@ -29,6 +29,9 @@ https://youtu.be/P3cRwAD6p_A
 11.10.2023 Лекция 6 Разбор задач по массивам  
 https://youtu.be/t73P2-hn1pQ  
 
+18.10.2023 Лекция 7 Функции  
+https://youtu.be/6u_-btBB_xQ  
+
 ## Лекции Продвинутые
 06.09.2023 Лекция 1 Введение  
 https://www.youtube.com/watch?v=i9pnZLc34Lc  
@@ -47,6 +50,9 @@ https://youtu.be/RoVYwHRiYYI
 
 11.10.2023 Лекция 6 Функции  
 https://youtu.be/yfSJg9zP7HM  
+
+18.10.2023 Лекция 7 CMake и гит  
+https://youtu.be/ZkBkzHOij4I  
 
 ## Дополнительные материалы
 1. Официальный справочник по С++ https://en.cppreference.com/w/  
