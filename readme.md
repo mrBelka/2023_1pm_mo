@@ -64,4 +64,6 @@ https://youtu.be/ZkBkzHOij4I
 7. Иные курсы на ютуб, https://www.coursera.org/courses и т.п.  
 8. Онлайн-компилятор, который показывает код на Ассемблере https://godbolt.org/  
 9. Вводная лекция от Перминова И.К. https://rutube.ru/video/3eedc1a1361aaf120a3790f1634f7932/?r=wd&t=0  
+10. Канал о том, как устроен компьютер и как работают ЯП https://www.youtube.com/@AlekOS  
+
 
