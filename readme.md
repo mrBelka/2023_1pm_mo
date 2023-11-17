@@ -35,6 +35,13 @@ https://youtu.be/6u_-btBB_xQ
 25.10.2023 Лекция 8 Строки  
 https://youtube.com/live/f8Pcv4Xk8kE?feature=share  
 
+08.11.2023 Лекция 9 Разбор задач на строки  
+https://youtu.be/rvkhKoDg2xY  
+
+15.11.2023 Лекция 10 Разбор задач на строки. Разбиение на файлы.  
+https://youtu.be/cQ7G8UUXsKw  
+
+
 ## Лекции Продвинутые
 06.09.2023 Лекция 1 Введение  
 https://www.youtube.com/watch?v=i9pnZLc34Lc  
@@ -59,6 +66,12 @@ https://youtu.be/ZkBkzHOij4I
 
 25.10.2023 Лекция 8 Консольный гит и начало указателей  
 https://youtu.be/jYV51B_KI6A  
+
+08.11.2023 Лекция 9 Указатели  
+https://youtu.be/XNqVets6wu4  
+
+15.11.2023 Лекция 10 Односвязный список  
+https://youtu.be/ZgsfNVL1jm8  
 
 ## Дополнительные материалы
 1. Официальный справочник по С++ https://en.cppreference.com/w/  
