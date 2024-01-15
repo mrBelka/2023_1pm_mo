@@ -11,6 +11,15 @@
 Засчитанные задачи: https://docs.google.com/spreadsheets/d/1UkPy_K7rXh4hGWaK2CvOankOT5QtGndSkaZzfHCQLrs/edit?usp=sharing
 
 ## Лекции Базовые
+
+### 2 семестр  
+
+15.01.2024 Лекция 12 Cmake и гит  
+https://youtu.be/xDvC9a_JltE  
+
+
+### 1 семестр  
+
 06.09.2023 Лекция 1 Введение  
 https://www.youtube.com/watch?v=i9pnZLc34Lc
 
@@ -49,6 +58,14 @@ https://youtu.be/CDhzBFgsETM
 
 
 ## Лекции Продвинутые
+
+### 2 семестр
+
+15.01.2024 Лекция 13 Введение в ООП  
+https://youtu.be/-Q43Ek5kWzw  
+
+### 1 семестр
+
 06.09.2023 Лекция 1 Введение  
 https://www.youtube.com/watch?v=i9pnZLc34Lc  
 
