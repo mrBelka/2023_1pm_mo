@@ -8,7 +8,8 @@
 Для продвинутого потока: https://drive.google.com/drive/folders/1rmOt8O36nRaHXf-EbEHKrYNDefb3QWEv?usp=sharing  
 Для базового потока: https://drive.google.com/drive/folders/1cd3pyqhPvVJoUlC7gdKePjWeQZYlom9V?usp=sharing  
 Рекомендации по стилю написания кода: https://docs.google.com/document/d/1-WvhJLcPuzLY0z9KG4wAVxtF3R_L7it37wu02iij2HM/edit?usp=sharing  
-Засчитанные задачи: https://docs.google.com/spreadsheets/d/1UkPy_K7rXh4hGWaK2CvOankOT5QtGndSkaZzfHCQLrs/edit?usp=sharing
+Засчитанные задачи (1 семестр): https://docs.google.com/spreadsheets/d/1UkPy_K7rXh4hGWaK2CvOankOT5QtGndSkaZzfHCQLrs/edit?usp=sharing
+Засчитанные задачи (2 семестр): https://docs.google.com/spreadsheets/d/1qJDzwxx544NcWSMjWyWrM0fCuh7ZMg2x0yP_pL1DZs0/edit?usp=sharing
 
 ## Лекции Базовые
 
