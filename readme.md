@@ -27,6 +27,10 @@ https://youtu.be/lb6neuRw7XU
 05.02.2024 Лекция 16 Установка SFML, применение ООП для отрисовки кругов  
 https://youtu.be/04yTev9o54o  
 
+12.02.2024 Лекция 17 Перемещение фигур с SFML  
+https://youtu.be/jslvByR9e3c  
+
+
 
 ### 1 семестр  
 
@@ -82,6 +86,9 @@ https://youtu.be/4cTEPL17Yv8
 
 05.02.2024 Лекция 16 Перегрузка операторов приведения типов, [], ()  
 https://youtu.be/_M1rcrXKmis  
+
+12.02.2024 Лекция 17 Шаблоны  
+https://youtu.be/cRByLzi0QKo  
 
 ### 1 семестр
 
