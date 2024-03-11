@@ -30,6 +30,9 @@ https://youtu.be/04yTev9o54o
 12.02.2024 Лекция 17 Перемещение фигур с SFML  
 https://youtu.be/jslvByR9e3c  
 
+04.03.2024 Лекция 18 Текстуры, клавиатура, перемещение объектов  
+https://youtu.be/rWFc6dPFzWw  
+
 
 
 ### 1 семестр  
@@ -89,6 +92,9 @@ https://youtu.be/_M1rcrXKmis
 
 12.02.2024 Лекция 17 Шаблоны  
 https://youtu.be/cRByLzi0QKo  
+
+04.03.2024 Лекция 18 Наследование  
+https://youtu.be/J4BFupOp3ls  
 
 ### 1 семестр
 
