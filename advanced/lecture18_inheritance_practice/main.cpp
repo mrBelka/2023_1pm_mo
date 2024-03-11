@@ -83,7 +83,8 @@ public:
 	BinReader(const std::string& filename) : DataReader(filename) {}
 	virtual ~BinReader()
 	{
-		delete[] m_data;
+		if (m_data != nullptr)
+			delete[] m_data;
 	}
 
 	bool Open() override
