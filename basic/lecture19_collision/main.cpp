@@ -5,7 +5,7 @@
 int main()
 {
     mt::Game game(1000, 600, "Game");
-    game.Setup(2);
+    game.Setup(10);
 
     game.LifeCycle();
   

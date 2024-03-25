@@ -10,6 +10,7 @@ namespace mt
 		float m_r;
 		float m_x, m_y;
 		float m_v;
+		float m_vx, m_vy;
 		float m_alfa;
 		sf::CircleShape m_shape;
 
@@ -27,8 +28,9 @@ namespace mt
 			m_y = y;
 			m_r = r;
 			m_v = v;
-
 			m_alfa = alfa;
+			m_vx = m_v * cos(m_alfa);
+			m_vy = m_v * sin(m_alfa);
 			m_shape.setOrigin(m_r, m_r);
 			m_shape.setRadius(m_r);
 			m_shape.setPosition(m_x, m_y);
@@ -54,13 +56,20 @@ namespace mt
 			m_alfa = alfa;
 		}
 
+		float V() { return m_v; }
+
+		void Vx(float vx) { m_vx = vx; }
+		void Vy(float vy) { m_vy = vy; }
+		float Vx() { return m_vx; }
+		float Vy() { return m_vy; }
+
 
 		void Move(float dt)
 		{
-			float vx = m_v * cos(m_alfa);
-			float vy = m_v * sin(m_alfa);
-			m_x += vx * dt;
-			m_y += vy * dt;
+			//float vx = m_v * cos(m_alfa);
+			//float vy = m_v * sin(m_alfa);
+			m_x += m_vx * dt;
+			m_y += m_vy * dt;
 			m_shape.setPosition(m_x, m_y);
 		}
 	};
