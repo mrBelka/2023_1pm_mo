@@ -36,6 +36,9 @@ https://youtu.be/rWFc6dPFzWw
 18.03.2024 Лекция 19 Неудачный разбор задачи на соударение шариков  
 https://youtu.be/YfhlQ4cn9do  
 
+25.03.2024 Лекция 20 Разбор задачи на соударение шаров  
+https://youtu.be/drX_YyTE7Yg  
+
 
 ### 1 семестр  
 
@@ -103,6 +106,9 @@ https://youtu.be/Nz99rMudnPU
 
 18.03.2024 Лекция 20 Умные указатели  
 https://youtu.be/Rmjl5t2jQH4  
+
+25.03.2024 Лекция 21 Static, кастомный логгер  
+https://youtu.be/_3EMawenTFU  
 
 ### 1 семестр
 
