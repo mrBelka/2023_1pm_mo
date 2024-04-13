@@ -39,6 +39,12 @@ https://youtu.be/YfhlQ4cn9do
 25.03.2024 Лекция 20 Разбор задачи на соударение шаров  
 https://youtu.be/drX_YyTE7Yg  
 
+01.04.2024 Лекция 21 Добавление снаряда  
+https://youtu.be/Q-R-xawqe7I  
+
+08.04.2024 Лекция 22 Добавление кораблей, наследование. Воспроизведение звука.  
+https://youtu.be/bsF7_A_RrpY  
+
 
 ### 1 семестр  
 
@@ -109,6 +115,12 @@ https://youtu.be/Rmjl5t2jQH4
 
 25.03.2024 Лекция 21 Static, кастомный логгер  
 https://youtu.be/_3EMawenTFU  
+
+01.04.2024 Лекция 22 Исключения  
+https://youtu.be/FOTcPEaLdEI  
+
+08.04.2024 Лекция 23 Библиотеки  
+https://youtu.be/dgm-B4w7Ols  
 
 ### 1 семестр
 
