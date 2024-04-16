@@ -45,6 +45,9 @@ https://youtu.be/Q-R-xawqe7I
 08.04.2024 Лекция 22 Добавление кораблей, наследование. Воспроизведение звука.  
 https://youtu.be/bsF7_A_RrpY  
 
+15.04.2024 Лекция 23 Шаблоны  
+https://youtu.be/59_zXJTJiXg  
+
 
 ### 1 семестр  
 
@@ -121,6 +124,10 @@ https://youtu.be/FOTcPEaLdEI
 
 08.04.2024 Лекция 23 Библиотеки  
 https://youtu.be/dgm-B4w7Ols  
+
+15.04.2024 Лекция 24 Создание библиотек, начало сборки OpenCV  
+https://youtu.be/GDrEUeBzEbE  
+
 
 ### 1 семестр
 
